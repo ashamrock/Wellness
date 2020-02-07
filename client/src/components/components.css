@@ -1,0 +1,339 @@
+.sign-up-logo{
+    z-index: 2;
+  }
+
+.container {
+    padding-left: 0px;
+}
+
+h5{
+margin-bottom: 5px;
+text-decoration: underline;
+color: #AAAAAA;
+}
+
+.navbar-translate{
+  max-height: 85px;
+}
+
+.h6p{
+  color:purple;
+  font-weight: bold;
+  font-size: 15px;
+  }
+
+.form-signup{
+  width: 300px;
+    left: 0px;
+    right: 0px;
+    color: rgb(104, 104, 104);
+  }
+
+  .clear{
+    background-color: rgba(39, 39, 39, 0.384);
+    border-radius: 50px;
+    }
+  
+  .now-ui-icons{
+    color: white;
+    /* background-color: inherit; */
+  }
+  
+  .form-group.no-border .form-control, .form-group.no-border .form-control + .input-group-text, .input-group.no-border .form-control, .input-group.no-border .form-control + .input-group-text {
+    background-color: rgba(43, 42, 42, 0.89);
+    text-align: center;
+    font-weight: bolder;
+    font-size: 15px;
+    width: 110px;
+  }
+  
+  .form-group .form-control, .input-group .form-control {
+    text-align: center;
+}
+
+  .form-group.no-border .input-group-prepend .input-group-text, .input-group.no-border .input-group-prepend .input-group-text {
+    background-color: rgba(43, 42, 42, 0.89);
+  }
+  .btn-neutral.btn-info {
+    color: teal;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  
+  .btn-lg[class*="btn-outline-"] {
+    padding: 14px 47px;
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    font-weight: bolder;
+    border: none;
+   font-size: 15px;
+  }
+
+  .n-logo {
+    display: block;
+    max-width: 300px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .logocenter{
+    width: 100%;
+  }
+
+  .brand{
+    padding-top: 250px;
+  }
+
+  .sidebar-collapse [class*="navbar-expand-"] .navbar-collapse {
+      width: 300px;
+  }
+
+  .padright{
+    padding-right: 10px;
+  }
+
+  .profile-page .title {
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 5px;
+    color: rgb(109, 181, 226);
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+.makeStyles-labelRoot-111{
+  color:red;
+}
+
+
+.btncenter{
+  display: flex;
+  width: 150px;
+  justify-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btnsearch{
+  background-color:  rgb(255, 136, 0);
+  border-radius: 10px;
+}
+
+.btnsearch{
+  background-color:  rgb(255, 136, 0);
+  border-radius: 10px;
+  margin: 0px;
+}
+
+.btnSettings{
+  background-color: purple;
+ border-radius: 10px;
+ margin: 0px;
+}
+
+.btntable{
+  background-color: green;
+  border-radius: 10px;
+  margin: 0px;
+}
+
+.settingsnav{
+  background-color: purple;
+ height: 100px;
+ border-radius: 20px;
+}
+
+.searchnav{
+  background-color: rgb(255, 136, 0);
+  height: 100px;
+  border-radius: 20px;
+}
+
+.tablenav{
+  background-color: green;
+  height: 100px;
+  border-radius: 20px;
+}
+
+.navbar-translate {
+position: absolute;
+left: 10px;
+}
+
+.margin-top{
+  margin-top: 115px;
+}
+
+.category{
+padding-top: 20px;
+}
+
+.center{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.MuiInputLabel-formControl {
+  width: 70px;
+}
+
+.navbar-toggler{
+  background-color: transparent;
+}
+
+.face{
+color: white;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.profile-page .photo-container {
+  width: 200px;
+  height: 200px;
+  border: 3px solid gray;
+}
+
+.profile-page .page-header {
+  min-height: 700px;
+}
+
+.container {
+  z-index: 1;
+  text-align: center;
+  position: relative;
+}
+
+.registerheader {
+  background-image: url(../assets/img/login.jpg);
+  box-sizing: border-box;
+width: 100%;
+height: 150px;
+background-size: 180% 100%;
+}
+
+.logup{
+height: 100%;
+width: 100%;
+left: 0;
+top: 0;
+overflow: hidden;
+position: fixed;
+}
+
+.footer{
+  position: absolute;
+  width: 100%;
+}
+
+.forminputtext{
+font-size: 15px;
+text-align: center;
+}
+
+.chartjs-render-monitor {
+  animation: chartjs-render-animation 0.001s;
+  border: 3px solid gray;
+  border-radius: 25px;
+}
+
+.description{
+  margin-top: 0px;
+  padding-top: 5px;
+  /* padding-bottom: 50px; */
+}
+
+.btnupdate{
+  border-radius: 20px;
+}
+
+.formupdate{
+  min-width: 110px;
+}
+
+.heading{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: rgb(109, 181, 226);
+}
+
+.main-content-container{
+  border-radius:50px;
+  padding-bottom: 20px;
+}
+
+.card {
+  border-radius:20px;
+}
+
+.updatecard{
+  box-shadow: 0px 5px 20px 10px #6e6e6e; 
+  border-radius:10px;
+}
+
+.card-img {
+  width: 100%;
+  height: 450px;
+  border-radius: calc(.25rem - 1px);
+}
+
+.purple-border {
+  border: 2px solid purple;
+}
+
+.profilebtn{
+  background-color: transparent;
+  font-size: 15px;
+  border-radius: 15px;
+}
+
+.searchtitle {
+  font-size: 35px;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 5px;
+  padding-top: 5px;
+  color: rgb(255, 136, 0);
+  margin-bottom: 10px;
+}
+
+.searchinfo {
+  font-size: 20px;
+  font-weight: bolder;
+  margin-top: 5px;
+  padding-top: 5px;
+  color: rgb(255, 136, 0);
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.chart{
+  position: relative;
+  width: 100%;
+  height: 200px;
+}
+
+.tableTitle {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 5px;
+  padding-top: 5px;
+  color: green;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.adds{
+  padding-top: 20px;
+  padding-right: 10px;
+  float: left;
+  width: auto;
+  max-width: 400px;
+}

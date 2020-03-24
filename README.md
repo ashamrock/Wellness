@@ -1,5 +1,5 @@
 # The Wellness App
-
+https://wellness-project.herokuapp.com/index
 ## The Wellness App is designed so that users can keep track of values that are key to their health, perform searches for resources, and compare how they are doing to others using the app.
 
 #### When the user arrives at the website, they are greeted by the welcom page.
